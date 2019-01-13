@@ -4,6 +4,8 @@ An assignment for the course Tietorakenteet (=Datastructures) in 2017/2018
 
 Held in University of Tampere
 
+(Due to this all of the comments in the code are in Finnish)
+
 
 ## The program
 
