@@ -7,7 +7,7 @@ Held in University of Tampere
 
 ## The program
 
-The program reads integers from two given files and provides three output files in a manner of set operations OR, AND and XOR.
+The program reads integers from two separate files and provides three output files in a manner of set operations OR, AND and XOR.
 The main purpose of the assignment was to make an own implementation of hash table, and not use the hash table that comes with Java.
 Also all of the provided output files have their own extra information about the concerned operation.
 
